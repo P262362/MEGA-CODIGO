@@ -1,6 +1,6 @@
 <?php
 $host ="localhost";
-$user= "raul";
-$pw = "p262362";
+$user= "u225861_RAUL";
+$pw = "R946125M";
 $db = "serviciotec";
 ?>
