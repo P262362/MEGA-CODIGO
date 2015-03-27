@@ -2,5 +2,5 @@
 $host ="localhost";
 $user= "u225861_RAUL";
 $pw = "R946125M";
-$db = "serviciotec";
+$db = "u225861_PROYECTO_FINAL;
 ?>
