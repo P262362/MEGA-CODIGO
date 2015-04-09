@@ -13,9 +13,9 @@
 
 <form action="insertar.php" method="post" name="form">
 	
-USUARIO <input type="text" name="nombre"/> </br>
-CORREO <input type="text" name="correo"/> </br>
-CONTRASEÑA <input type="password" name="pw"/></br>
+USUARIO<input type="text" name="nombre"/> </br>
+CORREO<input type="text" name="correo"/> </br>
+CONTRASEÑA<input type="password" name="pw"/></br>
         
 <input type="submit" value="guardar">
 
